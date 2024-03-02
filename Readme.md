@@ -107,7 +107,7 @@ pengxuexi's learning records——Timeline
 
 ![image-20240228093414241](Readme.assets/image-20240228093414241.png)
 
-![image-20240228093420433](Readme.assets/image-20240228093420433.png)
+<img src="Readme.assets/image-20240228093420433.png" alt="image-20240228093420433" style="zoom:150%;" />
 
 ![image-20240228093427170](Readme.assets/image-20240228093427170.png)
 
@@ -160,6 +160,38 @@ pengxuexi's learning records——Timeline
 去跟成都的一家硬件公司的工程师做过交流，问题应该还是出在阻抗上面，电源带来的噪声不会那么稳定
 
 另外工程师提到，普通的FR4板材的PCB板卡是可以做到8GHz的，我知道多层板的内部，有良好的参考平面对于重要的信号线是非常友好的，但是换层也意味着阻抗的失配，高频板为什么能消除那个高频的噪声是因为高频材料的平面非常平整，阻抗连续性很好，FR4材料的表面就像衣服的纤维一样，非常粗糙，阻抗连续性比较差，所以信号的带宽越高，信号的失真就越严重，引起的各种信号反射叠加等也会越严重
+
+## 9、开发板学习记录
+
+学过的开发板比较多，有自己买的，也有比赛用的，记录一下
+
+<img src="Readme.assets/image-20240302101919886.png" alt="image-20240302101919886" style="zoom:160%;" />
+
+![image-20240302101928766](Readme.assets/image-20240302101928766.png)
+
+<img src="Readme.assets/image-20240302101955774.png" alt="image-20240302101955774" style="zoom:110%;" />
+
+<img src="Readme.assets/image-20240302102024861.png" alt="image-20240302102024861" style="zoom:180%;" />
+
+<img src="Readme.assets/image-20240302101945422.png" alt="image-20240302101945422" style="zoom:53%;" />
+
+![image-20240302102008125](Readme.assets/image-20240302102008125.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
